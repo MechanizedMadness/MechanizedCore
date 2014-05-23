@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mechanizedcore",
+  "name": "Mechanized Core",
+  "description": "A collection of utilities to speed up the mod making process.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Darkevilmac"],
+  "credits": "Darkevilmac and the awesome people behind forge for such an amazing api.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
